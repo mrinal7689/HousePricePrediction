@@ -98,6 +98,9 @@ The project includes:
 3. Actual vs Predicted House Prices Scatter Plot
 4. House Price vs Area Scatter Plot (Optional)
 
+![House Price Distribution](Chart1.png)
+![Correlation Heat-Map](Chart2.png)
+!![Actual vs Predicted(Random Forrest)](Chart3.png)
 ## Key Findings
 
 * Area is one of the strongest factors affecting house prices.
