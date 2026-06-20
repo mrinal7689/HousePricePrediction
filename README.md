@@ -100,7 +100,7 @@ The project includes:
 
 ![House Price Distribution](Chart1.png)
 ![Correlation Heat-Map](Chart2.png)
-!![Actual vs Predicted(Random Forrest)](Chart3.png)
+![Actual vs Predicted(Random Forrest)](Chart3.png)
 ## Key Findings
 
 * Area is one of the strongest factors affecting house prices.
